@@ -1,9 +1,9 @@
 {
   "type": "open",
   "order_type": "buy",
-  "symbol": "EURUSD",
+  "symbol": "GBPUSD",
   "lot": 1.00,
-  "open_price": 1.08900,
-  "sl": 1.07600,
-  "tp": 1.09601
+  "open_price": 1.29207,
+  "sl": 1.27600,
+  "tp": 1.39601
 }
