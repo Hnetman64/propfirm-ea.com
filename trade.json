@@ -1,0 +1,9 @@
+{
+  "type": "open",
+  "order_type": "buy",
+  "symbol": "EURUSD",
+  "lot": 1.00,
+  "open_price": 1.08900,
+  "sl": 1.08600,
+  "tp": 1.09300
+}
